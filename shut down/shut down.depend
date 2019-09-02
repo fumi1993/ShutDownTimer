@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567463237 source:c:\users\katon\desktop\shut down program\shut down\main.c
+	<stdio.h>
+	<stdlib.h>
+
