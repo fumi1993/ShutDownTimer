@@ -9,8 +9,8 @@ int main()
   int minutos;
 
   printf("bienvenido al programa para apagar la pc ");
-  printf("\nopcion 1: para ingresar la hora");
-  printf("\nopcion 2: para cancelar el apagado");
+  printf("\nopcion 1: para ingresar la hora :");
+  printf("\nopcion 2: para cancelar el apagado :");
   printf("\ncualquier otro imput cierra el programa :");
   scanf("%d",&choice);
 
